@@ -11,7 +11,7 @@
 
 <h4 align="center">- About Me - </h4>
 
--Im a skid.. (working on it)
+-I am trying to learn C++. Done being a skid, its time for the villan arc.
   
 ---
 
