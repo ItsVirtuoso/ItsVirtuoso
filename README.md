@@ -1,4 +1,4 @@
-![Header](https://github.com/ItsVirtuoso/ItsVirtuoso/blob/main/image.png)
+![Header](https://github.com/ItsVirtuoso/ItsVirtuoso/blob/main/Banner.png)
 <h1 align="center">Hey 👋, I'm Virtuoso!</h1>
 <h3 align="center">I'm 15 and interested in learning C++.</h3>
 
